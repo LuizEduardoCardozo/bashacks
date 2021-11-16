@@ -1,12 +1,12 @@
 # Bashacks
 
- 1. [What is that](what-is-that)
- 2. [Requirements](requirements)
- 3. [Installation](installation)
- 4. [Documentation](Documentation)
- 5. [Usage examples](usage-examples)
- 6. [Changelog](changelog)
- 7. [Known bugs](knwon-bugs)
+ 1. [What is that](#what-is-that)
+ 2. [Requirements](#requirements)
+ 3. [Installation](#installation)
+ 4. [Documentation](#Documentation)
+ 5. [Usage examples](#usage-examples)
+ 6. [Changelog](#changelog)
+ 7. [Known bugs](#knwon-bugs)
 
 ## What is that
 
