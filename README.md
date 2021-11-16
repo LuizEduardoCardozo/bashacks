@@ -1,14 +1,14 @@
-# bashacks
+# Bashacks
 
- 1. What is that
- 2. Requirements
- 3. Installation
- 4. Documentation
- 5. Usage examples
- 6. Changelog
- 7. Known bugs
+ 1. [What is that](what-is-that)
+ 2. [Requirements](requirements)
+ 3. [Installation](installation)
+ 4. [Documentation](Documentation)
+ 5. [Usage examples](usage-examples)
+ 6. [Changelog](changelog)
+ 7. [Known bugs](knwon-bugs)
 
-## 1. What is that
+## What is that
 
  bashacks is an open source (GPL) set of bash functions
  probably useful for programmers, security analysts and general
@@ -50,7 +50,7 @@ Use *make* command to generate a single file containing all functions and add it
 
 ## 4. Documentation
 
-    [a link](https://bashacks.readthedocs.io/)
+  The official documentation is hosted on [Read The Docs](https://bashacks.readthedocs.io/)
 
 ## 5. Usage examples
 
@@ -75,11 +75,13 @@ Create a basic C program skeleton
     $ cat hello.c
     #include <stdio.h>
 
-    int main(int argc, char *argv[]) {
+```c
+int main(int argc, char *argv[]) {
 
 
-        return 0;
-    }
+    return 0;
+}
+```
 
 Calculate common checksums for a given file
 
@@ -175,4 +177,4 @@ interpret them. See the following example using bh_strxor function:
     $ bh_strxor 0x41 "'\$3/ /%." # string between double quotes and dollar sign escaped
     fernando
 
-If you think you found a bug, please fill it at <https://github.com/merces/bashacks/issues>
+If you think you found a bug, please fill it at [issues page](https://github.com/merces/bashacks/issues)
